@@ -1,0 +1,172 @@
+
+Data structures are,
+
+➊  Array
+➋  Set
+➌  Stack
+➍  Queue
+➎  Hash Table
+➏  Tree
+➐  Graph
+
+✧ Linked List (it's important as well)
+
+We will be discussing about 
+
+❍  Definition of a Data Structure
+❍  Use Case(s) for a Data Structure
+❍  List of Operations
+
+
+➊  Array
+
+An array is a collection of similar data elements stored at contiguous memory locations.
+
+⬔  Use Case(s)
+
+➀  Data values displayed in a Table
+➁  Items displayed in a List
+➂  Options in a Select field
+
+
+⬕  Operations you should be knowing
+
+➀  Creating an Array
+➁  Iterate through Array
+➂  Find an Element
+➃  Insert Element(s)
+➄  Delete Element(s)
+➅  Filter an Array
+➆  Fetch a Sub-Array
+➇  Merging Arrays
+
+
+➋  Set
+
+❍  Set is used to contain unique elements.
+❍  Set's elements may or, may not be ordered.
+
+⬔  Use Case(s)
+
+➀  Items added to a Shopping Cart.
+      If you add an item which is already in your shopping cart, its quantity gets increased.
+
+
+⬕  Operations you should be knowing
+
+➀  Creating a Set
+➁  Iterate through Set
+➂  Get an Element
+➃  Insert Element(s)
+➄  Delete Element(s)
+➅  Check Existence of an Element
+➆  Merging Sets
+
+·
+Mar 31
+➌  Stack
+
+Stack is a type of list where an element is entered to and exited from one end only.
+
+⬔  Use Case(s)
+
+➀  Image Carousel.
+      Images in a Carousel are mostly in Stacks.
+      The last image is always displayed on top and, on swipe, the last but one comes to the top
+
+⬕  Operations you should be knowing
+
+➀  Creating a Stack
+➁  Push Element to the Stack
+➂  Pop an Element from the Stack
+➃  Size of the Stack
+
+
+
+➍  Queue
+
+Queue is a type of list where an element is entered at one side and exited at the other side.
+
+⬔  Use Case(s)
+
+➀  A dynamically loading news feed.
+      New post appears at the bottom where as while scrolling old post at the top gets offloaded.
+
+⬕  Operations you should be knowing
+
+➀  Creating a Queue
+➁  Insert an item to Queue
+➂  Remove an item from Queue
+➃  Size of the Queue
+
+
+➎  Hash Table
+
+❍  It is a container of Key-Value pairs.
+❍  It is also known as Map, Dictionary.
+
+⬔  Use Case(s)
+
+➀  Storing different fields of values for a single Entity.
+E.g., Name, Address and other details of a User
+
+➁  User's preferences.
+E.g., Theme, Color, Font etc.
+
+
+⬕  Operations you should be knowing
+
+➀  Creating a Hash Table
+➁  Inserting an Entry
+➂  Deleting an Entry
+➃  Getting Value for a Key
+➄  Checking if a Key exists
+
+
+➏  Tree
+
+Tree is a data structure where elements are stored in a hierarchical structure.
+
+⬔  Use case(s)
+
+➀  DOM (Document Object Model)
+➁  Organisational Structure
+
+
+⬕  Operations you should be knowing
+
+➀  Creating a Tree
+➁  Traversing through Tree
+➂  Fetch sub tree
+➃  Fetch siblings
+➄  Add an Element
+➅  Remove an Element
+
+
+
+
+➐  Graph
+
+A Graph consists of a finite set of vertices(or nodes) and set of Edges which connect a pair of nodes.
+
+⬔  Use case(s)
+
+➀  Connections in a Social Network
+➁  Locations and Routes in a Map
+
+⬕  Operations you should be knowing
+
+➀  Breadth First Search
+➁  Depth First Search
+➂  Graph Cycle
+➃  Minimum Spanning Tree
+➄  Shortest Paths
+
+
+💭 Why no Linked List?
+
+⬘  Without doubt, you should know about Linked Lists.
+
+⬗  I didn't cover it separately because in most situations we do not use Linked List alone.
+
+⬙  Some popular implementations of Stack and Queue are done using Linked List.

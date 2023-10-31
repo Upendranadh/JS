@@ -1,2 +1,5 @@
 const name = "developer";
-const age = "24";
+
+const age = "100";
+
+const name2 = "dev2";
